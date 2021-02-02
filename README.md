@@ -18,7 +18,7 @@ You should run "composer install" in "skype" and "discord" folder to install req
 
 ## for Skype
 1. Find and locate main.db (https://www.laptopmag.com/how-to/back-up-skype-chat-history-windows-10#:~:text=The%20database%20file%20is%20updated,db.)
-2. Create folder structure, where output should be stored (you should make something like folder "outdiscord" and "data" folder in it). Download guild icon and avatars to place them into "data" folder.
+2. Create folder structure, where output should be stored (you should make something like folder "outskype" and "data" folder in it). Download guild icon and avatars to place them into "data" folder.
 3. Edit and run skype/parser.php to create html files of history.
 4. Use template/stringstomenu.php and HTML files in template folder to form index file and menu.
 
