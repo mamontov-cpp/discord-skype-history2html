@@ -1,0 +1,13 @@
+{
+    "name": "mamontov-cpp/skypedownload",
+    "type": "project",
+    "require": {
+        "dusterio/link-preview": "^1.2"
+    },
+    "authors": [
+        {
+            "name": "mamontov-cpp",
+            "email": "mamontov.dp@gmail.com"
+        }
+    ]
+}

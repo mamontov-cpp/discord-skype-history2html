@@ -1,0 +1,14 @@
+{
+    "name": "mamontovdp/discord-archive-prettifier",
+    "type": "project",
+    "require": {
+        "olamedia/nokogiri": "^2.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mamontov-cpp",
+            "email": "mamontov.dp@gmail.com"
+        }
+    ]
+}
