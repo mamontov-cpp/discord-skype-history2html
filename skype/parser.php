@@ -24,6 +24,8 @@ $destinationPreviewFolder  = "data";
 $headTitleName = "{TITLENAME}";
 // Output file prefix, used, when writing final html
 $outputFilePrefix = "out-";
+// Guild icon
+$guildIcon = "data/guild.png";
 // Path to default avatar
 $defaultAvatar = "data/ava1.png";
 // Avatar path mapping maps avatars from displayed name to their image counterparts, that should be downloaded and placed in folder, accessible from destination files to be replaced in dialog.
@@ -825,7 +827,7 @@ a {
 </head>
 <body><div class="preamble">
     <div class="preamble__guild-icon-container">
-        <img class="preamble__guild-icon" src="data/guild.png" alt="Guild icon">
+        <img class="preamble__guild-icon" src="' . $guildIcon . '" alt="Guild icon">
     </div>
     <div class="preamble__entries-container">
         <div class="preamble__entry">Direct Messages</div>
