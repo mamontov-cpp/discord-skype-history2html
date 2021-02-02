@@ -22,5 +22,9 @@ You should run "composer install" in "skype" and "discord" folder to install req
 3. Edit and run skype/parser.php to create html files of history.
 4. Use template/stringstomenu.php and HTML files in template folder to form index file and menu.
 
+## Russian readers
+
+See http://catrm.blogspot.com/2021/02/history-export-from-skype-and-discord.html for additional details
+
 ## Known issues:
 Some previews for Youtube are not built, this seems to be an issue, that needs further investigation
